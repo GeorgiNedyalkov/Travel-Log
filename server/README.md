@@ -6,9 +6,12 @@ TODO:
 
   - Install dependencies: express, cors, morgan, helmet
   - Install dev-dependencies: eslint, nodemon
-  - Install / Setup linter
-  - Setup Express App
-  - Setup Not Found and Error Middlewares
+
+Set up the basic express app. Configure the scripts in package.json.
+
+- Install / Setup linter
+- Setup Express App
+- Setup Not Found and Error Middlewares
 
 - Model DB
 
