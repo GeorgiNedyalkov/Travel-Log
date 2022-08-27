@@ -37,3 +37,17 @@ The main file is just basic setup middlewares, and error handlers. All other rou
   - Create Form to add a new entry
   - Setup Map SDK on client
   - List all entries on Map
+
+Database:
+
+- Log Entry
+- Title: Text
+- Description: Text
+- Rating - scale of 1 - 10
+- Image: Text - Url
+- Start Date: DateTime
+- End Date: DateTime
+- Latitude: Number
+- Logitude: Number
+- Created At: Datetime
+- Updated At: Datetime
